@@ -24,7 +24,7 @@
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		BF696745A8AF458D9DF1F8F7 /* Pods_LMGeocoder_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E16B299D0F6F919E828E47EC /* Pods_LMGeocoder_Example.framework */; };
-		E430644029486D6100911ED6 /* LMGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = E430643F29486D6100911ED6 /* LMGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E430644029486D6100911ED6 /* LMGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = E430643F29486D6100911ED6 /* LMGeocoder.h */; };
 		E430644329486D6100911ED6 /* LMGeocoder.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E430643D29486D6100911ED6 /* LMGeocoder.framework */; };
 		E430644429486D6100911ED6 /* LMGeocoder.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E430643D29486D6100911ED6 /* LMGeocoder.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		E430645329486DB900911ED6 /* LMGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = E430644D29486DB900911ED6 /* LMGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
