@@ -27,11 +27,11 @@
 		E430644029486D6100911ED6 /* LMGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = E430643F29486D6100911ED6 /* LMGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E430644329486D6100911ED6 /* LMGeocoder.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E430643D29486D6100911ED6 /* LMGeocoder.framework */; };
 		E430644429486D6100911ED6 /* LMGeocoder.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E430643D29486D6100911ED6 /* LMGeocoder.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		E430645329486DB900911ED6 /* LMGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = E430644D29486DB900911ED6 /* LMGeocoder.h */; };
+		E430645329486DB900911ED6 /* LMGeocoder.h in Headers */ = {isa = PBXBuildFile; fileRef = E430644D29486DB900911ED6 /* LMGeocoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E430645429486DB900911ED6 /* LMGeocoder.m in Sources */ = {isa = PBXBuildFile; fileRef = E430644E29486DB900911ED6 /* LMGeocoder.m */; };
-		E430645529486DB900911ED6 /* LMGeocodingOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = E430644F29486DB900911ED6 /* LMGeocodingOperation.h */; };
+		E430645529486DB900911ED6 /* LMGeocodingOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = E430644F29486DB900911ED6 /* LMGeocodingOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E430645629486DB900911ED6 /* LMGeocodingOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = E430645029486DB900911ED6 /* LMGeocodingOperation.m */; };
-		E430645729486DB900911ED6 /* LMAddress.h in Headers */ = {isa = PBXBuildFile; fileRef = E430645129486DB900911ED6 /* LMAddress.h */; };
+		E430645729486DB900911ED6 /* LMAddress.h in Headers */ = {isa = PBXBuildFile; fileRef = E430645129486DB900911ED6 /* LMAddress.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E430645829486DB900911ED6 /* LMAddress.m in Sources */ = {isa = PBXBuildFile; fileRef = E430645229486DB900911ED6 /* LMAddress.m */; };
 /* End PBXBuildFile section */
 
